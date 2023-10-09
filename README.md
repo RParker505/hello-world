@@ -1,5 +1,5 @@
-# hello-world
-CareerFoundry Web Development Program Resources
+# CareerFoundry Web Development Program Resources
+**Reference documents, training videos, and more**
 ## About Rocky
 *Current content creator hoping to become a full stack web developer*
 ### Web Development Course Resources
