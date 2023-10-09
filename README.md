@@ -4,4 +4,4 @@ CareerFoundry Web Development Program Resources
 *Current content creator hoping to become a full stack web developer*
 ### Web Development Course Resources
 [Markdown Cheat Sheet](https://www.example.com](https://www.markdownguide.org/cheat-sheet/)https://www.markdownguide.org/cheat-sheet/)
-[GitHub Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary#commit)
+[GitHub Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
